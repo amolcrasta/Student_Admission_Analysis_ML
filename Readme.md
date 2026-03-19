@@ -1,4 +1,4 @@
-# Student Admission Analysis
+# 🧠 Student Admission Analysis
 
 ## Project Overview
 
