@@ -142,7 +142,7 @@ To predict admission status:
 - Holistic student profiles improve admission chances
 - Category-based cut-offs influence patterns
 
-![Admission by State](Screenshot%202026-01-12%20172530.png)
+![Admission by State](Screenshot%202026-01-13%20172530.png)
 ---
 
 ## Business Recommendations
